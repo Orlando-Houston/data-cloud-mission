@@ -26,3 +26,4 @@ Features: score, hints, progress bar, unlockable levels, a final Explorer badge,
 
 ## Notes
 This is a conceptual educational simulation, **not** a real Salesforce org integration. Details of connectors, federation, and file manifests depend on supported capabilities and configuration. It is not affiliated with or endorsed by Salesforce.
+Interactive Data Cloud learning game – Version 1.0
